@@ -3,6 +3,7 @@
 
 WPF框架下的OSG三维地理信息系统显示地球，而Unity3D制作小场景用于显示特定小场景，通过接入监控视频流，传感器接口用于实现小场景的展示及监控。
 整体软件界面，右上角为Unity3D小场景。
+后续计划建模学校校园场景并接入校园内监控摄像头进行视频投影纹理与拼接。
 
 ![image](https://github.com/Lucifinil0409/Unity3D_Loft/blob/master/pic/1280px-%E4%B8%89%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0.png)
 
